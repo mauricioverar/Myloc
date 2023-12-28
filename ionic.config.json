@@ -1,0 +1,7 @@
+{
+  "name": "Myloc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
